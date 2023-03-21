@@ -12,7 +12,7 @@
 <img src="image.jpg" width="150px" height="200px" border="2">
 </td>
 <td bgcolor="#0000FF">NAMA </td>
-<td> Gilang virgiawan </td>
+<td> Gilang virgiawan2 </td>
 </tr>
 <tr>
 <td bgcolor="#0000FF"> UMUR </td>
